@@ -22,13 +22,13 @@ Hola! Soy  *${botname}*
 *Mystic Club*🍪
 
 ──꯭ׂ─꯭─꯭
- ?̸ ׁ ```comandos``` . ° 🪜.
+ ?̸ *comandos* . ° 🪜.
 
 → Usa #help para ver la lista de comandos. ୨୧
 
 ──꯭ׂ─꯭─꯭
 
- ?̸ ׁ ```canal oficial```  . °🪜.
+ ?̸ *canal oficial*  . °🪜.
 
 https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x
 
