@@ -31,10 +31,10 @@ console.log(`Error : ${e}`)
 global.creador = 'Wa.me/51920227615'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/51920227615'
-global.namechannel = 'ALYA OFICIAL CHANNEL'
-global.namechannel2 = 'MɎSŦƗȻ ȻŁᵾɃ'
+global.namechannel = 'MɎSŦƗȻ ȻŁᵾɃ'
+global.namechannel2 = 'ALYA OFICIAL CHANNEL'
 global.namegrupo = 'ALYAS OFC'
-global.namecomu = '✿:･✧ 𝓨𝓾𝓴𝓲 𝓢𝓾𝓸𝓾 𝓒𝓸𝓶𝓾𝓷𝓲𝓽𝔂 ✧･:✿'
+global.namecomu = '✿:･✧ Alya x Mystic Club ✧･:✿'
 global.listo = '❮✦❯ *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
 
