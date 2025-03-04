@@ -1,6 +1,6 @@
 <h1 align="center">✦ alya-Bσƚ ✦</h1>
 
- <img src= "https://files.catbox.moe/om9jai.jpg">
+ <img src= "https://qu.ax/Sbcpa.jpg">
     </p>
 
 ### **`❕️ Información importante`**
@@ -55,7 +55,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/The-King-Destroy/Yuki_Suou-Bot && cd Yuki_Suou-Bot
+git clone https://github.com/mysticclub/Alya-ofc && cd Alya-ofc
 ```
 
 ```bash
@@ -83,7 +83,7 @@ npm start
 ❒ Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Yuki_Suou-Bot
+    cd Alya-ofc
    ```
 
 ❒ Inicia el bot nuevamente:
@@ -92,13 +92,7 @@ npm start
     npm start
    ```
 
-### **✰ Volverte owner del Bot**
 
-> Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
-
-   ```bash
-    cd Yuki_Suou-Bot && nano settings.js
-   ```
 
 </details>
 
@@ -108,104 +102,23 @@ npm start
 <details>
  <summary><b> 🍭 Grupos Oficiales </b></summary>
 
- * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T)
-* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/Ecz881bBgqPIWjDOaKkp7E)
-* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/EwrwcGvpLf1BnMhP3B4axD)
+ * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x)
+* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/DOZXfAktnNzFeIfVDvyYIn)
+* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/E306o0iqonT4B2GMgoP2vr)
 </details>
-
-<details>
-<summary><b> 💭 Contáctos</b></summary>
-
-* WhatsApp: [`Aquí`](https:/Wa.me/584120346669)
-* Correo: [`Aquí`](thekingdestroy507@gmail.com)
-
-</details>
-
----
-
-### **`☁️ SKY-ULTRA-PLUS`**
-
-<a
-href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" height="125px"></a>
-
-<details>
- <summary><b> 🌩️ Servidor Sky-Ultra-Plus</b></summary>
-
-* Dashboard  [`Dash`](https://dash.skyultraplus.com)
-* Panel [`Panel`](https://panel.skyultraplus.com)
-* Canal de WhatsApp [`Canal Sky`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
-* Comunidad  [`Aquí`](https://chat.whatsapp.com/JPwcXvPEUwlEOyjI3BpYys)
-* Contacto(s) [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1) / [`Russell`](https://api.whatsapp.com/send/?phone=15167096032&text&type=phone_number&app_absent=0) / [`elrebelde21`](https://facebook.com/elrebelde21)
-* Discord [`SkyUltraPlus`](https://discord.gg/Ph4eWsZ8)
-
-</details>
-
----
-
-###  **`☄️ AKIRAX-HOSTING`**
-<a href="https://home.akirax.net"><img src="https://qu.ax/AVgaL.jpg" height="145px"></a>
-
-<details>
- <summary><b>💠 Servidor Akirax-Hosting</b></summary>
-
-* Dashboard: [`Dash`](https://home.akirax.net)
-* Panel: [`Panel`](https://console.akirax.net)
-* Canal de WhatsApp: [`Canal Akirax`](https://whatsapp.com/channel/0029Vb3Ocrs7IUYNQktqeE11)
-* Comunidad: [`Aquí`](https://chat.whatsapp.com/HekxzfoLBxN1TCwTmrlGcy)
-* Contacto(s): [`Matias`](https://Wa.me/+5491164123932) / [`Tesis`](https://wa.me/522431268546)
-
-</details>
-
----
-
-### **`🌌 HOSTING-PY`**
-
-<a
-href="https://dahs.hostingpy.shop/home"><img src="https://files.catbox.moe/lr92z2.jpg" height="125px"></a>
-
-<details>
- <summary><b> 🌠 Servidor HostingPy</b></summary>
 
 * Dashboard  [`Dash`](https://dahs.hostingpy.shop)
 * Panel [`Panel`](https://panel.hostingpy.shop)
-* Canal de WhatsApp [`Canal Py`](https://whatsapp.com/channel/0029Vak4e1R4NVifmh8Tvi3q)
-* Comunidad  [`Aquí`](https://chat.whatsapp.com/HT9YFbWTuqO0DQrq6Xxhvx)
-* Contacto(s) [`Soporte`](https://wa.me/595976126756)
+* Canal de WhatsApp [`Canal Py`](https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x)
+* Comunidad  [`Aquí`](https://chat.whatsapp.com/E306o0iqonT4B2GMgoP2vr)
+* Contacto(s) [`Soporte`](https://wa.me/51920227615)
+
+
+
+* Canal de WhatsApp: [`Canal Bronxy`](https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x)
+* Grupo Oficial: [`Aquí`](https://chat.whatsapp.com/DOZXfAktnNzFeIfVDvyYIn)
+* Grupo Soporte: [`Soporte`](https://wa.me/51920227615 
 
 </details>
 
----
-
-###  **`©️ BRONXYS-HOSTING`**
-<a href="https://bronxyshost.com"><img src="https://tinyurl.com/23qv2kvr" height="145px"></a>
-
-<details>
- <summary><b>♣️ Servidor Bronxy-Hosting</b></summary>
-
-* Dashboard: [`Dash`](https://bronxyshost.com)
-* Panel: [`Panel`](https://bronxyshost.com)
-* Canal de WhatsApp: [`Canal Bronxy`](https://whatsapp.com/channel/0029Va9l48kHbFV6SQFKz93B)
-* Grupo Oficial: [`Aquí`](https://chat.whatsapp.com/GVQsAe6CAjoJLuotkpnAqq)
-* Grupo Soporte: [`Soporte`](https://wa.me/message/OMZQOH4YZ765K1) 
-
-</details>
-
----
-
-### **`🌟 Colaboradores`**
-<a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=The-King-Destroy/Yuki_Suou-Bot" /> 
-</a>
-
-### **`👑 Propietario`**
-<a
-href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="
-ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"/></a>
-
-### **`🪐 Créditos`**
-<a href="https://github.com/OfcKing" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/OfcKing.png" width="130" height="130" alt="OfcKing" style="border-radius: 50%;"/>
-</a>
-<a href="https://github.com/David-Chian" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/David-Chian.png" width="130" height="130" alt="David-Chian" style="border-radius: 50%;"/>
-</a>
+--
