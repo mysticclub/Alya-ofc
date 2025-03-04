@@ -9,14 +9,14 @@ if (!res.ok) throw new Error('Error al obtener datos del repositorio')
 let json = await res.json()
 
 let txt = `*乂  S C R I P T  -  M A I N  乂*\n\n`
-txt += `✩  *Nombre* : ${json.name}\n`
-txt += `✩  *Visitas* : ${json.watchers_count}\n`
-txt += `✩  *Peso* : ${(json.size / 1024).toFixed(2)} MB\n`
-txt += `✩  *Actualizado* : ${moment(json.updated_at).format('DD/MM/YY - HH:mm:ss')}\n`
-txt += `✩  *Url* : ${json.html_url}\n`
-txt += `✩  *Forks* : ${json.forks_count}\n`
-txt += `✩  *Stars* : ${json.stargazers_count}\n\n`
-txt += `> *${dev}*`
+txt += `✩  *Nombre* : ALYA OFC\n`
+txt += `✩  *Visitas* : 000\n`
+txt += `✩  *Peso* : 1024 MB\n`
+txt += `✩  *Actualizado* : /\/\n`
+txt += `✩  *Url* : REPOSITORIO PRIVADO\n`
+txt += `✩  *Forks* : REPOSITORIO PRIVADO\n`
+txt += `✩  *Stars* : NAN\n\n`
+txt += `> *MYSTIC CLUB*`
 
 await conn.sendMessage(m.chat, {text: txt, contextInfo: { forwardingScore: 999, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterName: channelRD.name, newsletterJid: channelRD.id, }, externalAdReply: { title: packname, body: dev, thumbnailUrl: 'https://qu.ax/nGaLj.jpg', sourceUrl: redes, mediaType: 1, renderLargerThumbnail: true }}}, {quoted: fkontak})
 
