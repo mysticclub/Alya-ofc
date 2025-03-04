@@ -14,25 +14,15 @@ Hola! Soy  *${botname}*
 ‎  ⏜︵⊹︵⏜︵︵⏜︵⊹︵⏜ 
 
 *¡Welcome!*᪶  ⍰
-
 :─ׅ──꯭ׂ─꯭─ׅ─ׂ──ׅ──꯭ׂ─꯭─ׅ─ׂ─
-
 > developed by: 
-
 *Mystic Club*🍪
-
 ──꯭ׂ─꯭─꯭
  ?̸ *comandos* . ° 🪜.
-
 → Usa #help para ver la lista de comandos. ୨୧
-
 ──꯭ׂ─꯭─꯭
-
  ?̸ *canal oficial*  . °🪜.
-
 https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x
-
-
 °   ໒ᤢ ꠦ  Σ̸۪ۡ☰ۜ    𝃤    ❤️ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 ╭┈ ↷
 │ᰔᩚ Cliente » @${userId.split('@')[0]}
