@@ -10,15 +10,30 @@ let handler = async (m, { conn, args }) => {
     let totalCommands = Object.values(global.plugins).filter((v) => v.help && v.tags).length;
     
     let txt = `
-Hola! Soy  *${botname}* 
-╭┈ ↷
-│ ✐ 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 
-MɎSŦƗȻ ȻŁᵾɃ ❤️
-│ ✐ ꒷ꕤ💎ദ ᴄᴏᴍᴀɴᴅᴏs ෴
-│ usa #help para ver la lista de comandos ꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡
-│ ✐ ꒷ꕤ💎ദ ᴄᴀɴᴀʟ ᴏғɪᴄɪᴀʟ ෴
-│ https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x
-╰───────────────
+Hola! Soy  *${botname}*
+‎  ⏜︵⊹︵⏜︵︵⏜︵⊹︵⏜ 
+
+*¡Welcome!*᪶  ⍰
+
+:─ׅ──꯭ׂ─꯭─ׅ─ׂ──ׅ──꯭ׂ─꯭─ׅ─ׂ─
+
+> developed by: 
+
+*Mystic Club*🍪
+
+──꯭ׂ─꯭─꯭
+ ?̸ ׁ ```comandos``` . ° 🪜.
+
+→ Usa #help para ver la lista de comandos. ୨୧
+
+──꯭ׂ─꯭─꯭
+
+ ?̸ ׁ ```canal oficial```  . °🪜.
+
+https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x
+
+
+°   ໒ᤢ ꠦ  Σ̸۪ۡ☰ۜ    𝃤    ❤️ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 ╭┈ ↷
 │ᰔᩚ Cliente » @${userId.split('@')[0]}
 │❀ Modo » Publico
