@@ -11,7 +11,14 @@ let handler = async (m, { conn, args }) => {
     
     let txt = `
 Hola! Soy  *${botname}* 
-Aquí tienes la lista de comandos
+╭┈ ↷
+│ ✐ 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 
+MɎSŦƗȻ ȻŁᵾɃ ❤️
+│ ✐ ꒷ꕤ💎ദ ᴄᴏᴍᴀɴᴅᴏs ෴
+│ usa #help para ver la lista de comandos ꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡
+│ ✐ ꒷ꕤ💎ദ ᴄᴀɴᴀʟ ᴏғɪᴄɪᴀʟ ෴
+│ https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x
+╰───────────────
 ╭┈ ↷
 │ᰔᩚ Cliente » @${userId.split('@')[0]}
 │❀ Modo » Publico
